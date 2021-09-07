@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ramliracika
-- 👀 I’m interested in Back End
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me : you can knock my dm on instagram  @ramliracika
 <!---
